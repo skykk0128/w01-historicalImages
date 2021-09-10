@@ -1,0 +1,2 @@
+rootProject.name = "W01-HistoricalImages"
+include ':app'
